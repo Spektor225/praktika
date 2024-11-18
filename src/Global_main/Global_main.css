@@ -1,0 +1,50 @@
+
+
+
+.container_main
+{
+    display: flex;
+
+    height: 100vh;
+}
+
+
+
+.bar
+{
+    border-right: 1px solid black;
+
+    width: 25%;
+}
+
+
+
+.window
+{
+    flex: 1;
+
+    /* padding: 10px 10px 0px 10px; */
+}
+
+
+
+.view
+{
+    display: flex;
+    flex-direction: column;
+
+    padding: 10px 15px 10px 15px;
+
+    margin: 20px 20px 0px 20px;
+
+    border-radius: 20px;
+
+    background-color: #F2F2F2;
+}
+
+
+
+/* .view:hover
+{
+    background-color: aqua;
+} */
